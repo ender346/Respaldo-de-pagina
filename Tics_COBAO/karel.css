@@ -1,0 +1,61 @@
+html {
+    background: white;
+}
+
+.seccion-titulo{
+    background: #ccc;
+    background: linear-gradient(80deg, #1186f4, #000);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 3rem;
+
+    -webkit-text-fill-color: 
+    transparent;
+    -webkit-background-clip: text;
+    text-align: center;
+}
+
+
+.sub {
+    font-size: 2rem;
+    padding: 1.5rem 1.5rem;
+    color: black;
+    text-align: center;
+    background: aliceblue;
+    font-family: 'Shantell Sans', cursive;
+}
+
+.text {
+    text-align: center;
+    font-size: 1.5rem;
+    color: black;
+    background-color: transparent;
+    padding: .5rem .5rem;
+    font-family: 'Indie Flower', cursive;
+}
+
+.text.codi-ka {
+    font-family: 'Rampart One', cursive;
+    border-radius: 0.5rem;
+}
+
+.seccion-oscura {
+    background-color: gray;
+}
+
+.derechos-de-autor {
+    font-size: 1rem;
+    color: white;
+    padding: 1.5rem 1.5rem;
+    background: black;
+    text-align: center;
+  } 
+
+  .proxit {
+    text-align: center;
+    color: black;
+    padding: 1.8rem 1.8rem;
+    font-size: 1.5rem;
+    background: azure;
+    font-family: 'Tilt Neon', cursive;
+  }
+/* Contenedor */
