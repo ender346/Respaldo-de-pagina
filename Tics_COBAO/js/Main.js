@@ -24,3 +24,6 @@
 	cursorChar: '/', // Caracter para el cursor
 	contentType: 'html', // 'html' o 'null' para texto sin formato
 });
+
+console.log(1)
+console.log(2)
